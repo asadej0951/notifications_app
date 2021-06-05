@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fe467285-3bf1-42ab-a797-8a0396f6e27c" name="Default Changelist" comment="up Code">
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/compressed_assets/debug/out/assets/flutter_assets/assets/fonts/SukhumvitSet-Bold.ttf.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/compressed_assets/debug/out/assets/flutter_assets/assets/fonts/SukhumvitSet-Light.ttf.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/compressed_assets/debug/out/assets/flutter_assets/assets/fonts/SukhumvitSet-Medium.ttf.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/compressed_assets/debug/out/assets/flutter_assets/assets/fonts/SukhumvitSet-SemiBold.ttf.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/compressed_assets/debug/out/assets/flutter_assets/assets/images/1.png.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/compressed_assets/debug/out/assets/flutter_assets/assets/images/2.png.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/compressed_assets/debug/out/assets/flutter_assets/assets/images/3.png.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/compressed_assets/debug/out/assets/flutter_assets/assets/images/4.png.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/compressed_assets/debug/out/assets/flutter_assets/assets/images/5.png.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/compressed_assets/debug/out/assets/flutter_assets/assets/images/logo.png.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/compressed_assets/debug/out/assets/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf.jar" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1tIjXRMkpL4cfueOucosq7sQzkR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Dart" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/flutter-master1/flutter-master/webview" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Asadej\Project\notifications_app\assets\images" />
+      <recent name="C:\Users\Asadej\Project\notifications_app\assets\fonts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Asadej\Project\notifications_app\lib\ui\menu\home" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe467285-3bf1-42ab-a797-8a0396f6e27c" name="Default Changelist" comment="" />
+      <created>1622463543541</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622463543541</updated>
+    </task>
+    <task id="LOCAL-00001" summary="up Code">
+      <created>1622898968312</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1622898968312</updated>
+    </task>
+    <task id="LOCAL-00002" summary="up Code">
+      <created>1622899073275</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1622899073275</updated>
+    </task>
+    <task id="LOCAL-00003" summary="up Code">
+      <created>1622899216302</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1622899216302</updated>
+    </task>
+    <task id="LOCAL-00004" summary="up Code">
+      <created>1622899274766</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1622899274766</updated>
+    </task>
+    <task id="LOCAL-00005" summary="up Code">
+      <created>1622899324376</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1622899324376</updated>
+    </task>
+    <task id="LOCAL-00006" summary="up Code">
+      <created>1622900122020</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1622900122020</updated>
+    </task>
+    <task id="LOCAL-00007" summary="up Code">
+      <created>1622900256790</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1622900256790</updated>
+    </task>
+    <task id="LOCAL-00008" summary="up Code">
+      <created>1622900291607</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1622900291607</updated>
+    </task>
+    <task id="LOCAL-00009" summary="up Code">
+      <created>1622900407583</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1622900407583</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="up Code" />
+    <option name="LAST_COMMIT_MESSAGE" value="up Code" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2472" y="178" key="#Intentions" timestamp="1622473534203">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2472" y="178" key="#Intentions/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1622473534203" />
+    <state width="458" height="466" key="DebuggerActiveHint" timestamp="1622888487922">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="458" height="466" key="DebuggerActiveHint/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1622888487922" />
+    <state x="2660" y="275" key="FileChooserDialogImpl" timestamp="1622887603464">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2660" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1622887603464" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.187.1920.1040@0.0.1920.1040" timestamp="1622826336316" />
+    <state x="2740" y="418" key="Github.ShareDialog" timestamp="1622898703315">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2740" y="418" key="Github.ShareDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1622898703315" />
+    <state x="2640" y="225" key="Github.UntrackedFilesDialog" timestamp="1622898708010">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2640" y="225" key="Github.UntrackedFilesDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1622898708010" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1622892231205">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1622892231205" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1622892231205">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1622892231205" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1622892231205">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1622892231205" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1622892231205">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1622892231205" />
+    <state x="2672" y="425" key="SetupCloudRepositoryDialog" timestamp="1622893013913">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2672" y="425" key="SetupCloudRepositoryDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1622893013913" />
+    <state x="2472" y="253" key="Vcs.Push.Dialog.v2" timestamp="1622900412491">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2472" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1622900412491" />
+    <state x="2587" y="253" width="585" height="534" key="find.popup" timestamp="1622729375652">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2587" y="253" width="585" height="534" key="find.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1622729375652" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/ui/menu/home/HomeMenu.dart</url>
+          <line>81</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/ui/menu/home/HomeMenu.dart</url>
+          <line>80</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/ui/menu/home/HomeMenu.dart</url>
+          <line>82</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/ui/menu/home/ShowDataHome.dart</url>
+          <line>6</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/ui/menu/home/ShowDataHome.dart</url>
+          <line>7</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/ui/menu/home/ShowDataHome.dart</url>
+          <line>8</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/ui/menu/home/ShowDataHome.dart</url>
+          <line>11</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/ui/menu/home/ShowDataHome.dart</url>
+          <line>15</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/ui/menu/home/ShowDataHome.dart</url>
+          <line>17</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/ui/menu/home/ShowDataHome.dart</url>
+          <line>19</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/ui/menu/home/ShowDataHome.dart</url>
+          <line>28</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/ui/menu/home/ShowDataHome.dart</url>
+          <line>29</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/ui/menu/home/ShowDataHome.dart</url>
+          <line>30</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
